@@ -1,0 +1,14 @@
+/***** Simply Countable plugin *****/
+
+#counter-1, #counter-2 { font-weight: 600; }
+.safe { color: green; }
+.over { color: red; }
+.no-js .char-count { display: none; }
+
+/***** Dashboard Info Widget *****/
+
+.admin-theme-thumb { background: #FCFCFC; text-align: center; border: 1px solid #EDEDED; }
+
+/***** Add Color to xt Widgets *****/
+
+#widget-list [id*='_xt_'] .widget-top { background: #FFCC00; box-shadow: 0 1px 0 #EDEDED inset; }

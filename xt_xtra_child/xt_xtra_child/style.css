@@ -1,0 +1,13 @@
+/*****
+Theme Name: Xt-Xtra Child Theme
+Theme URI: http://www.xtthemes.com
+Description: Included here is a child theme for Xt-Xtra WordPress Theme to make alterations much easier for you the user. When using this child theme make sure, that you keep any changes after an update of the parent theme.
+Author: XT Themes
+Author URI: http://www.xtthemes.com/
+Template: xt_xtra
+Version: 1.5.0
+License: GNU General Public License v2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*****/
+
+@import url("../xt_xtra/style.css");
